@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<litepal>
+	<dbname value="/mnt/sdcard/ttt.db" />
+	<version value="1" />
+	<list>
+		<mapping class="com.lnsoft.swidpdhclast.testlitepal.Student" />
+
+	</list>
+
+</litepal>
