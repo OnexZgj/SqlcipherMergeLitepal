@@ -48,7 +48,7 @@ public class Connector {
 	private static LitePalOpenHelper mLitePalHelper;
 
 
-	private static final String psw_key="lnsoft";
+	private static final String psw_key="onexzgj";
 
 	/**
 	 * Get a writable SQLiteDatabase.
